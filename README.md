@@ -48,21 +48,9 @@ Frontend-oriented developer and Information Technology student
 
 # 📊 GitHub Stats
 
-<p align="center">
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GiuliaGuizzoBS&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaGuizzoBS&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiuliaGuizzoBS&show_icons=true&theme=tokyonight&hide_border=true"/> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaGuizzoBS&layout=compact&theme=tokyonight&hide_border=true"/> 
 </p>
 
 
